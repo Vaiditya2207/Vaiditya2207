@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="planets.png"/>
+</div>
+
 - 👋 Hi, I’m @Vaiditya2207
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -5,8 +9,3 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-<!---
-Vaiditya2207/Vaiditya2207 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
